@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KarateKidSchool.Data.Layer.Entitey
 {
-    public class tetcher
+    internal class Class1
     {
     }
 }
